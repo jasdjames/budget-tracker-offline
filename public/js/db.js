@@ -1,4 +1,5 @@
 // indexedDB - Refer to last mini project
+console.log('DB FILE LOADED!!!');
 
 // you'll also need a manifest.webmanifest and service worker? - mini project
 let db;
